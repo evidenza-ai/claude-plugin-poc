@@ -1,0 +1,14 @@
+{
+    "name": "evidenza-linus-quote-tools",
+    "owner": {
+      "name": "Evidenza",
+      "email": "adam@evidenza.ai"
+    },
+    "plugins": [
+      {
+        "name": "linus-quote-plugin",
+        "source": "./plugins/linus-quote-plugin",
+        "description": "A plugin to recieve random quotes from Linus Torvalds from Evidenza"
+      }
+    ]
+  }
