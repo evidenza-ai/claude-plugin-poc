@@ -1,0 +1,7 @@
+{
+    "mcpServers": {
+        "evidenza-linus-quote": {
+            "url": "${EVIDENZA_MCP_URL}"
+        }
+    }
+}
