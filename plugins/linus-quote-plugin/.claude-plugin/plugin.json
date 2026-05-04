@@ -1,15 +1,10 @@
 {
     "name": "evidenza-linus-quote-plugin",
     "description": "A plugin to receive random quotes from Linus Torvalds from Evidenza",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "author": { "name": "Evidenza" },
     "source": {
         "source": "github",
         "repo": "evidenza-ai/claude-plugin-poc"
-    },
-    "userConfig": {
-        "EVIDENZA_MCP_URL": {
-            "description": "URL of the Evidenza Linus Quote MCP server"
-        }
     }
 }
