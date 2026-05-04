@@ -2,7 +2,7 @@
     "mcpServers": {
       "evidenza-linus-quote": {
         "type": "http",
-        "url": "${user_config.EVIDENZA_MCP_URL}"
+        "url": "http://localhost:3001/mcp"
       }
     }
   }
