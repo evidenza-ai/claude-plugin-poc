@@ -1,7 +1,8 @@
 {
     "mcpServers": {
-        "evidenza-linus-quote": {
-            "url": "${user_config.EVIDENZA_MCP_URL}"
-        }
+      "evidenza-linus-quote": {
+        "type": "http",
+        "url": "${user_config.EVIDENZA_MCP_URL}"
+      }
     }
-}
+  }
