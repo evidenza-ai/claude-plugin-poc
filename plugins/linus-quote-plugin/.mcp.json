@@ -4,8 +4,7 @@
         "type": "http",
         "url": "${EVIDENZA_MCP_URL}",
         "oauth": {
-            "clientId": "${EVIDENZA_OAUTH_CLIENT_ID}",
-            "authServerMetadataUrl": "${EVIDENZA_OAUTH_METADATA_URL}"
+            "clientId": "${EVIDENZA_OAUTH_CLIENT_ID}"
         }
       }
     }
