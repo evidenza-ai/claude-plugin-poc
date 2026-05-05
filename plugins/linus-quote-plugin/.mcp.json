@@ -2,7 +2,10 @@
     "mcpServers": {
       "evidenza-linus-quote": {
         "type": "http",
-        "url": "http://localhost:3001/mcp"
+        "url": "${EVIDENZA_MCP_URL}",
+        "oauth": {
+            "authServerMetadataUrl": "${EVIDENZA_OAUTH_METADATA_URL}"
+        }
       }
     }
   }
