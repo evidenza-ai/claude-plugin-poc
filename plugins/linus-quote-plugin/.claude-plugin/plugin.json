@@ -1,7 +1,7 @@
 {
     "name": "evidenza-linus-quote-plugin",
     "description": "A plugin to receive random quotes from Linus Torvalds from Evidenza",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "author": { "name": "Evidenza" },
     "source": {
         "source": "github",
